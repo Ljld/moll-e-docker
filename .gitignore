@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+.env
+
+# IDEs and editors
+/.idea
